@@ -27,7 +27,7 @@ PRODUCT_COPY_FILES += \
 PRODUCT_COPY_FILES += \
     vendor/huawei/c8500/proprietary/etc/01_qc.cfg:system/etc/01_qc.cfg \
     vendor/huawei/c8500/proprietary/etc/AudioFilter.csv:system/etc/AudioFilter.csv \
-    vendor/huawei/c8500/proprietary/etc/AudioFilterU8150.csv:system/etc/AudioFilterU8150.csv \
+    vendor/huawei/c8500/proprietary/etc/AudioFilterC8500.csv:system/etc/AudioFilterC8500.csv \
     vendor/huawei/c8500/proprietary/etc/init.qcom.bt.sh:system/etc/init.qcom.bt.sh \
     vendor/huawei/c8500/proprietary/etc/pvplayer.cfg:system/etc/pvplayer.cfg
 
